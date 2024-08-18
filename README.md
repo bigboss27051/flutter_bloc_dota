@@ -1,2 +1,6 @@
 # flutter_bloc_dota
-example simple bloc in flutter for beginner
+flutter run
+
+when you using flutter builder runnner should be run this command for re generate file g
+flutter pub run build_runner build
+
